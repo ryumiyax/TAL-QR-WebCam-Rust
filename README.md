@@ -1,0 +1,1 @@
+Reference: https://github.com/esuo1198/TaikoArcadeLoader/blob/Refactor/PLUGINS.md
